@@ -1,4 +1,4 @@
-# Hi there, I'm Joshua Fonseca 👋  
+# Hi, I'm josh :)
 
 [![Website](https://img.shields.io/badge/🌐_Website-joshfonseca.com-1DA1F2?style=flat-square)](https://www.joshfonseca.com)
 [![YouTube](https://img.shields.io/badge/🎥_YouTube-joshycodes-red?style=flat-square)](https://www.youtube.com/@joshycodes)
